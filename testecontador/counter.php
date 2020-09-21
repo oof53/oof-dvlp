@@ -49,6 +49,6 @@
         </center></p>
     </div>
     <br><br><br><br>    
-    <a href="../index.html"> voltar </a>
+    <a href="../"> voltar </a>
 </body> 
 </html>
